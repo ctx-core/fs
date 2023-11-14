@@ -1,5 +1,11 @@
 # @ctx-core/fs
 
+## 1.3.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 1.3.2
 
 ### Patch Changes

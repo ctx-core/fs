@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fs",
-	"version": "1.3.2",
+	"version": "1.3.3",
 	"description": "ctx-core fs",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./file_exists_"
 	],
