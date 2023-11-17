@@ -1,5 +1,11 @@
 # @ctx-core/fs
 
+## 1.3.4
+
+### Patch Changes
+
+- tsx: ^4.1.2 -> ^4.1.3
+
 ## 1.3.3
 
 ### Patch Changes
@@ -49,4 +55,5 @@
 
 ### Major Changes
 
-- - file*exists*: aliased by path\__exists_
+-
+    - file*exists*: aliased by path\__exists_

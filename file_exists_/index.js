@@ -1,4 +1,5 @@
 import { access } from 'fs/promises'
+
 /**
  * @param {string}path
  * @returns {Promise<boolean>}
