@@ -1,5 +1,11 @@
 # @ctx-core/fs
 
+## 1.3.6
+
+### Patch Changes
+
+- tsx: ^4.1.4 -> ^4.2.0
+
 ## 1.3.5
 
 ### Patch Changes
