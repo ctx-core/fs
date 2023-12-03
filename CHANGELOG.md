@@ -1,5 +1,11 @@
 # @ctx-core/fs
 
+## 1.4.1
+
+### Patch Changes
+
+- file_exists\_\_waitfor: fix: implementation
+
 ## 1.4.0
 
 ### Minor Changes

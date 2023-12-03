@@ -23,5 +23,5 @@ export {
  * @returns {Promise<void>}
  */
 export function file_exists__waitfor(path, timeout = 5000, period = 0) {
-	return waitfor(path, timeout, period)
+	return waitfor(()=>file_exists_(path), timeout, period)
 }
