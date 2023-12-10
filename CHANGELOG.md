@@ -1,5 +1,11 @@
 # @ctx-core/fs
 
+## 1.4.18
+
+### Patch Changes
+
+- @ctx-core/tempfile: ^1.2.16 -> ^1.2.17
+
 ## 1.4.17
 
 ### Patch Changes
