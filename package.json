@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fs",
-	"version": "1.4.25",
+	"version": "1.4.26",
 	"description": "ctx-core fs",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@ctx-core/tempfile": "^1.2.24",
+		"@ctx-core/tempfile": "^1.2.25",
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
 		"tsx": "^4.6.2",
