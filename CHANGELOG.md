@@ -1,5 +1,11 @@
 # @ctx-core/fs
 
+## 1.4.23
+
+### Patch Changes
+
+- @ctx-core/tempfile: ^1.2.21 -> ^1.2.22
+
 ## 1.4.22
 
 ### Patch Changes
