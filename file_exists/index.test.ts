@@ -1,4 +1,4 @@
-import { tempfile_path_ } from '@ctx-core/tempfile'
+import { tempfile_path_ } from 'ctx-core/tempfile'
 import { unlink, writeFile } from 'fs/promises'
 import { test } from 'uvu'
 import { equal } from 'uvu/assert'

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fs",
-	"version": "1.4.39",
+	"version": "1.4.40",
 	"description": "ctx-core fs",
 	"keywords": [
 		"ctx-core",
@@ -37,9 +37,10 @@
 		"test-unit": "tsx node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
-	"dependencies": {},
+	"dependencies": {
+		"ctx-core": "^5.1.0"
+	},
 	"devDependencies": {
-		"@ctx-core/tempfile": "^1.2.38",
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
 		"tsx": "^4.6.2",
