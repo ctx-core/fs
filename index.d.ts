@@ -1,1 +1,1 @@
-export * from './file_exists/index.js'
+export * from 'ctx-core/fs'

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fs",
-	"version": "1.4.45",
+	"version": "1.4.46",
 	"description": "ctx-core fs",
 	"keywords": [
 		"ctx-core",
@@ -20,8 +20,7 @@
 	"files": [
 		"*.d.ts",
 		"*.js",
-		"*.json",
-		"./file_exists"
+		"*.json"
 	],
 	"types": "./index.d.ts",
 	"exports": {
@@ -38,7 +37,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.2.3"
+		"ctx-core": "^5.3.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
