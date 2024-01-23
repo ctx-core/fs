@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fs",
-	"version": "1.4.88",
+	"version": "1.4.89",
 	"description": "ctx-core fs",
 	"keywords": [
 		"ctx-core",
@@ -38,7 +38,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.25.4"
+		"ctx-core": "^5.25.5"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
