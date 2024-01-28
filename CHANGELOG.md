@@ -1,5 +1,18 @@
 # @ctx-core/fs
 
+## 1.5.0
+
+### Minor Changes
+
+- file_exists\_\_waitfor: path:string→path_OR_op:string|(()=>unknown|Promise<unknown>)
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@5.33.0
+
 ## 1.4.100
 
 ### Patch Changes
