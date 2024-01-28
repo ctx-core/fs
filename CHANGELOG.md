@@ -1,5 +1,13 @@
 # @ctx-core/fs
 
+## 1.4.100
+
+### Patch Changes
+
+- is*entry_file*: fix: return type: boolean
+- Updated dependencies
+  - ctx-core@5.32.1
+
 ## 1.4.99
 
 ### Patch Changes
