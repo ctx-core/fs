@@ -1,5 +1,12 @@
 # @ctx-core/fs
 
+## 1.5.14
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@6.0.0
+
 ## 1.5.13
 
 ### Patch Changes
