@@ -1,5 +1,13 @@
 # @ctx-core/fs
 
+## 1.5.17
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+- Updated dependencies
+  - ctx-core@6.1.2
+
 ## 1.5.16
 
 ### Patch Changes
