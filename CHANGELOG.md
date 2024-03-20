@@ -1,5 +1,13 @@
 # @ctx-core/fs
 
+## 1.5.40
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 1.5.39
 
 ### Patch Changes
