@@ -1,5 +1,13 @@
 # @ctx-core/fs
 
+## 1.5.60
+
+### Patch Changes
+
+- file_exists\_\_waitfor: catch: fix: check for Error message includes ENOENT
+- Updated dependencies
+  - ctx-core@7.2.2
+
 ## 1.5.59
 
 ### Patch Changes
