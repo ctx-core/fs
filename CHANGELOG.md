@@ -1,5 +1,11 @@
 # @ctx-core/fs
 
+## 1.5.62
+
+### Patch Changes
+
+- ctx-core: ^7.2.3 -> ^7.2.4
+
 ## 1.5.61
 
 ### Patch Changes
